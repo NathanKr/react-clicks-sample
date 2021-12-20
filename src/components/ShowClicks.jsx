@@ -6,8 +6,8 @@ const ShowClicks = () => {
     <div
       style={style}
       onClick={() => {
-        document.title = `clicks : ${count}`;
         count++; // --- closure on count
+        document.title = `clicks : ${count}`;
       }}
     >
       <h2>Component ShowClicks</h2>

@@ -11,3 +11,7 @@ Here clicks are shown also on the DOM thus state and componentDidMount and compo
 
 <h2>ShowClicksUsingHooks</h2>
 Here clicks are shown also on the DOM thus useState and useEffect are used. No need to duplicated code as done in ShowClicksUsingClass via componentDidMount\componentDidUpdate
+
+<h2>Setup</h2>
+<p>npm i</p>
+<p>npm run dev</p>
